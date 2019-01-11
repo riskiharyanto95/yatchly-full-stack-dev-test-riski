@@ -1,0 +1,23 @@
+{
+  "name": "yatchly-full-stack-dev-test-riski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riskiharyanto95/yatchly-full-stack-dev-test-riski.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riskiharyanto95/yatchly-full-stack-dev-test-riski/issues"
+  },
+  "homepage": "https://github.com/riskiharyanto95/yatchly-full-stack-dev-test-riski#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
